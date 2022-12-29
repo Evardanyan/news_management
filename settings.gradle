@@ -1,0 +1,8 @@
+rootProject.name = 'News Management'
+include 'module-main'
+include 'untitled'
+include 'untitled1'
+include 'module-web'
+include 'module-service'
+include 'module-repository'
+
